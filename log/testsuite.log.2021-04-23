@@ -1,0 +1,269 @@
+2021-04-23 12:17:13,276 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 12:17:13,277 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:21:08,567 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 12:21:08,568 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:21:10,219 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 12:21:11,634 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:21:11,638 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 12:21:11,638 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 12:21:12,626 - Verify - INFO - 点击元素 by id: tab-0...
+2021-04-23 12:21:42,897 - Verify - WARNING - 查找元素超时: tab-0
+2021-04-23 12:23:58,363 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 12:23:58,363 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:23:59,664 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 12:24:00,506 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:24:00,596 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 12:24:00,597 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 12:24:54,612 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 12:24:54,612 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:24:55,899 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 12:24:56,560 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:24:56,673 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 12:24:56,674 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 12:26:31,089 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 12:26:31,089 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:26:32,358 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 12:26:33,088 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:26:33,094 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 12:26:33,096 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 12:26:34,772 - Verify - INFO - 点击元素 by xpath: //div[@class='el-tabs__content']/span/div/i...
+2021-04-23 12:28:44,884 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 12:28:44,884 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:28:46,113 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 12:28:47,757 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:28:47,763 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 12:28:47,764 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 12:28:48,410 - Verify - INFO - 点击元素 by xpath: //div[@class='el-tabs__content']/span/div/i...
+2021-04-23 12:28:50,486 - Verify - INFO - 点击元素 by xpath: //div/span[text()='航天科技馆-南京'][1]...
+2021-04-23 12:29:20,521 - Verify - WARNING - 查找元素超时: //div/span[text()='航天科技馆-南京'][1]
+2021-04-23 12:30:42,598 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 12:30:42,598 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:30:43,820 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 12:30:45,226 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:30:45,236 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 12:30:45,237 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 12:31:16,281 - Verify - INFO - 点击元素 by xpath: //div/span[text()='航天科技馆-南京'][1]...
+2021-04-23 12:31:46,450 - Verify - WARNING - 查找元素超时: //div/span[text()='航天科技馆-南京'][1]
+2021-04-23 12:32:30,467 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 12:32:30,468 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:32:31,751 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 12:32:33,750 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:32:33,755 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 12:32:33,756 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 12:33:15,093 - Verify - WARNING - 查找元素超时: //div/span[text()='航天科技馆-南京'][1]
+2021-04-23 12:34:54,264 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 12:34:54,264 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:34:55,519 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 12:34:56,344 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:34:56,452 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 12:34:56,453 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 12:36:44,943 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 12:36:44,943 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:36:46,233 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 12:36:47,880 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:36:47,885 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 12:36:47,886 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 12:37:29,696 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 12:37:29,696 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:37:30,928 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 12:37:32,536 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:37:32,541 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 12:37:32,542 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 12:38:43,087 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 12:38:43,087 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:38:44,455 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 12:38:46,110 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:38:46,122 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 12:38:46,123 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 12:41:06,140 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 12:41:06,140 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:41:07,376 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 12:41:08,771 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:41:08,790 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 12:41:08,791 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 12:41:47,096 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 12:41:47,096 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:41:48,330 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 12:41:50,443 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 12:41:50,464 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 12:41:50,465 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 13:01:54,682 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 13:01:54,682 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 13:01:55,903 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 13:01:58,209 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 13:01:58,213 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 13:01:58,214 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 13:03:09,566 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 13:03:09,566 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 13:03:10,825 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 13:03:11,508 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 13:03:11,740 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 13:03:11,743 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 13:03:49,791 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 13:03:49,792 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 13:03:51,110 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 13:03:51,882 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 13:03:51,984 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 13:03:51,985 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 13:32:25,705 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 13:32:25,705 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 13:32:26,963 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 13:32:28,700 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 13:32:28,704 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 13:32:28,704 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 13:59:04,462 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 13:59:04,463 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 13:59:05,714 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 13:59:07,403 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 13:59:07,408 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 13:59:07,409 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 14:00:29,233 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 14:00:29,233 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 14:00:30,441 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 14:00:31,898 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 14:00:31,903 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 14:00:31,903 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 14:01:07,531 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 14:01:07,532 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 14:01:08,749 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 14:01:10,102 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 14:01:10,106 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 14:01:10,107 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 14:03:21,000 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 14:03:21,000 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 14:03:22,268 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 14:03:22,989 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 14:03:23,056 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 14:03:23,058 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 14:16:17,585 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 14:16:17,585 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 14:16:18,845 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 14:16:19,499 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 14:16:19,505 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 14:16:19,506 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 14:17:25,683 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 14:17:25,684 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 14:17:26,933 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 14:17:28,675 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 14:17:28,691 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 14:17:28,692 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 14:18:32,591 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 14:18:32,592 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 14:18:33,871 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 14:18:34,693 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 14:18:34,824 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 14:18:34,825 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 14:19:23,038 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 14:19:23,038 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 14:19:24,205 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 14:19:25,039 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 14:19:25,138 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 14:19:25,139 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 14:21:29,892 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 14:21:29,892 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 14:21:31,119 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 14:21:32,616 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 14:21:32,621 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 14:21:32,622 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 14:23:16,390 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 14:23:16,391 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 14:23:17,717 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 14:23:19,314 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 14:23:19,319 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 14:23:19,320 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 16:43:08,112 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 16:43:08,113 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 16:43:09,372 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 16:43:10,078 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 16:43:11,461 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 16:43:11,462 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 16:44:03,412 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 16:44:03,412 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 16:44:04,726 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 16:44:06,111 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1
+2021-04-23 16:44:06,115 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 16:44:06,116 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 16:45:46,805 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 16:45:46,806 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 16:45:48,077 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 16:45:49,423 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 16:45:49,438 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 16:45:49,439 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 16:47:11,767 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 16:47:11,767 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 16:47:13,014 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 16:47:14,373 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 16:47:14,378 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 16:47:14,379 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 16:48:09,145 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 16:48:09,145 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 16:48:10,418 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 16:48:11,708 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 16:48:11,712 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 16:48:11,713 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 16:52:13,536 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 16:52:13,536 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 16:52:14,815 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 16:52:16,251 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 16:52:16,255 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 16:52:16,255 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 16:57:52,693 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 16:57:52,693 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 16:57:53,996 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 16:57:55,359 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 16:57:55,364 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 16:57:55,365 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 17:00:48,701 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 17:00:48,702 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 17:00:49,898 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 17:00:51,589 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 17:00:51,601 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 17:00:51,602 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 17:01:25,080 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 17:01:25,080 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 17:01:26,483 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 17:01:28,113 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 17:01:28,124 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 17:01:28,125 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 17:08:40,488 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 17:08:40,489 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 17:08:41,675 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 17:08:43,184 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 17:08:43,188 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 17:08:43,189 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 17:16:50,753 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 17:16:50,753 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 17:16:51,989 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 17:16:53,384 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 17:16:53,396 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 17:16:53,397 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 17:22:28,138 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 17:22:28,140 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 17:22:29,494 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 17:22:31,142 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 17:22:31,147 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 17:22:31,148 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 17:23:21,988 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 17:23:21,988 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 17:23:23,216 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 17:23:24,850 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 17:23:24,855 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 17:23:24,856 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 17:24:22,343 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 17:24:22,343 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 17:24:23,589 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 17:24:25,121 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 17:24:25,126 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 17:24:25,126 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 17:32:44,257 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 17:32:44,257 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 17:32:45,484 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 17:32:47,000 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 17:32:47,005 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 17:32:47,006 - BrowserDriver - INFO - 设置5秒隐式等待时间
+2021-04-23 17:34:39,753 - BrowserDriver - INFO - 浏览器:Chrome
+2021-04-23 17:34:39,754 - BrowserDriver - INFO - 访问:https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 17:34:40,904 - BrowserDriver - INFO - 启动谷歌浏览器
+2021-04-23 17:34:43,075 - BrowserDriver - INFO - 打开URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+2021-04-23 17:34:43,080 - BrowserDriver - INFO - 全屏当前窗口
+2021-04-23 17:34:43,080 - BrowserDriver - INFO - 设置5秒隐式等待时间

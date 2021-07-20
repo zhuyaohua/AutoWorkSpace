@@ -1,0 +1,6541 @@
+{
+  "projectRegion": "北京",
+  "ruleVersion": "V1.0",
+  "regionComputerCode": 1,
+  "projectInfo": {
+    "properties": {
+      "Arch-TY-01": {
+        "Value": "三门路693号教学用房扩建项目"
+      },
+      "GH-A-374": {
+        "Value": "1"
+      },
+      "Arch-TY-03": {
+        "Value": "1"
+      },
+      "Arch-TY-04": {
+        "Value": "1"
+      },
+      "GH-A-377": {
+        "Value": "1"
+      },
+      "Arch-TY-05": {
+        "Value": "1"
+      },
+      "Arch-TY-06": {
+        "Value": "1"
+      },
+      "TC-17": {
+        "Value": "1"
+      },
+      "GH-A-381": {
+        "Value": "1"
+      },
+      "Arch-TY-07": {
+        "Value": "1"
+      },
+      "Arch-TY-08": {
+        "Value": "1"
+      },
+      "GH-A-007": {
+        "Value": "是"
+      },
+      "GH-A-008": {
+        "Value": "有"
+      },
+      "GH-A-584": {
+        "Value": "一类区"
+      },
+      "GH-A-147": {
+        "Value": "大城市"
+      }
+    }
+  },
+  "landList": [
+    {
+      "landNumber": "A",
+      "landName": "A1",
+      "landNature": "C61高等学校用地",
+      "landComponentList": [
+        {
+          "name": "建筑红线",
+          "uid": "42d7af08-7468-4bad-b409-847b164c3d18-0019af6d",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1683309
+            },
+            "GH-A-169": {
+              "Value": "A1"
+            },
+            "GH-A-176": {
+              "Value": "5550.000"
+            },
+            "GH-A-170": {
+              "Value": "是"
+            },
+            "GH-A-171": {
+              "Value": "完全中学"
+            }
+          }
+        },
+        {
+          "name": "地形/子面域",
+          "uid": "db41e52e-bb1b-4dbb-8299-8c8a6d4a374e-000b6292",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 746130
+            },
+            "GH-A-108": {
+              "Value": "其他"
+            },
+            "GH-A-169": {
+              "Value": "A1"
+            },
+            "GH-A-176": {
+              "Value": "4927.706"
+            }
+          }
+        },
+        {
+          "name": "地形/子面域",
+          "uid": "12dbfe09-6235-4c9a-a1d0-175e4c01d723-00199725",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1677093
+            },
+            "GH-A-108": {
+              "Value": "基地道路"
+            },
+            "GH-A-169": {
+              "Value": "A1"
+            },
+            "GH-A-176": {
+              "Value": "569.002"
+            }
+          }
+        },
+        {
+          "name": "地形/子面域",
+          "uid": "fe400b2d-1fdf-47e9-9422-5caca1f28246-0019a70d",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1681165
+            },
+            "GH-A-108": {
+              "Value": "绿地"
+            },
+            "GH-A-169": {
+              "Value": "A1"
+            },
+            "GH-A-176": {
+              "Value": "40.401"
+            },
+            "GH-A-173": {
+              "Value": "集中绿地"
+            },
+            "GH-A-345": {
+              "Value": "是"
+            }
+          }
+        },
+        {
+          "name": "地形/子面域",
+          "uid": "fe400b2d-1fdf-47e9-9422-5caca1f28246-0019a83a",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1681466
+            },
+            "GH-A-108": {
+              "Value": "绿地"
+            },
+            "GH-A-169": {
+              "Value": "A1"
+            },
+            "GH-A-176": {
+              "Value": "37.423"
+            },
+            "GH-A-173": {
+              "Value": "有效绿地"
+            },
+            "GH-A-345": {
+              "Value": "是"
+            }
+          }
+        },
+        {
+          "name": "地形/子面域",
+          "uid": "fe400b2d-1fdf-47e9-9422-5caca1f28246-0019ac30",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1682480
+            },
+            "GH-A-108": {
+              "Value": "绿地"
+            },
+            "GH-A-169": {
+              "Value": "A1"
+            },
+            "GH-A-176": {
+              "Value": "368.460"
+            },
+            "GH-A-173": {
+              "Value": "有效绿地"
+            },
+            "GH-A-345": {
+              "Value": "是"
+            }
+          }
+        },
+        {
+          "name": "建筑地坪",
+          "uid": "d420a342-c120-4b01-96ac-792ee7e72f93-000d45d8",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 869848
+            },
+            "GH-A-174": {
+              "Value": "新建"
+            },
+            "GH-A-169": {
+              "Value": "A1"
+            },
+            "GH-A-176": {
+              "Value": "1734.614"
+            },
+            "GH-A-109": {
+              "Value": "1#"
+            }
+          }
+        },
+        {
+          "name": "建筑地坪",
+          "uid": "f6b4ac78-d5b2-487a-b983-12b3a4db1700-0019afcc",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1683404
+            },
+            "GH-A-174": {
+              "Value": "保留"
+            },
+            "GH-A-169": {
+              "Value": "A1"
+            },
+            "GH-A-176": {
+              "Value": "330.150"
+            },
+            "GH-A-109": {
+              "Value": "2#"
+            }
+          }
+        }
+      ],
+      "parkingList": [],
+      "properties": {
+        "GH-A-101": {
+          "Value": "A"
+        },
+        "GH-A-169": {
+          "Value": "A1"
+        },
+        "GH-A-102": {
+          "Value": "C61高等学校用地"
+        },
+        "GH-A-103": {
+          "Value": "5550.00"
+        },
+        "GH-A-104": {
+          "Value": "是"
+        },
+        "GH-A-107": {
+          "Value": "有口"
+        },
+        "GH-A-170": {
+          "Value": "否"
+        },
+        "GH-A-386": {
+          "Value": "0.25"
+        },
+        "GH-A-387": {
+          "Value": "30.00"
+        },
+        "GH-A-425": {
+          "Value": "100"
+        },
+        "GH-A-388": {
+          "Value": "10.00"
+        },
+        "GH-A-578": {
+          "Value": "0.00"
+        }
+      }
+    }
+  ],
+  "buildingList": [
+    {
+      "fileName": "School-ALL-AS-centre",
+      "buildingNo": "1#",
+      "landName": "A1",
+      "ruledLevelList": [
+        {
+          "levelName": "Roof",
+          "elevation": 22.45,
+          "levelType": "屋顶"
+        },
+        {
+          "levelName": "F5",
+          "elevation": 18.0,
+          "levelType": "楼层标高"
+        },
+        {
+          "levelName": "F4",
+          "elevation": 13.5,
+          "levelType": "楼层标高"
+        },
+        {
+          "levelName": "F3",
+          "elevation": 9.0,
+          "levelType": "楼层标高"
+        },
+        {
+          "levelName": "F2",
+          "elevation": 4.50000000000117,
+          "levelType": "楼层标高"
+        },
+        {
+          "levelName": "F1",
+          "elevation": 0.0,
+          "levelType": "楼层标高"
+        },
+        {
+          "levelName": "Site",
+          "elevation": -0.300000000000001,
+          "levelType": "室外地坪"
+        },
+        {
+          "levelName": "BasementRoof",
+          "elevation": -1.5,
+          "levelType": "地下室顶板"
+        },
+        {
+          "levelName": "B1",
+          "elevation": -6.15,
+          "levelType": "楼层标高"
+        }
+      ],
+      "areaList": [
+        {
+          "uid": "cfcc4dbc-531f-4d55-a99d-830d93c218a1-0019a64f",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1680975
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-175": {
+              "Value": "B1"
+            },
+            "GH-A-166": {
+              "Value": "5.99"
+            },
+            "GH-A-161": {
+              "Value": "29.10"
+            },
+            "GH-A-160": {
+              "Value": "28.62"
+            },
+            "GH-A-176": {
+              "Value": "304.720"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "工具间"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "cfcc4dbc-531f-4d55-a99d-830d93c218a1-0019a652",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1680978
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-175": {
+              "Value": "B1"
+            },
+            "GH-A-166": {
+              "Value": "6.15"
+            },
+            "GH-A-161": {
+              "Value": "28.60"
+            },
+            "GH-A-160": {
+              "Value": "28.60"
+            },
+            "GH-A-176": {
+              "Value": "11.181"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "设备竖井"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "cfcc4dbc-531f-4d55-a99d-830d93c218a1-0019a655",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1680981
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-175": {
+              "Value": "B1"
+            },
+            "GH-A-166": {
+              "Value": "5.99"
+            },
+            "GH-A-161": {
+              "Value": "28.75"
+            },
+            "GH-A-160": {
+              "Value": "28.62"
+            },
+            "GH-A-176": {
+              "Value": "113.561"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "走廊"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "cfcc4dbc-531f-4d55-a99d-830d93c218a1-0019a658",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1680984
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-175": {
+              "Value": "B1"
+            },
+            "GH-A-166": {
+              "Value": "6.14"
+            },
+            "GH-A-161": {
+              "Value": "28.75"
+            },
+            "GH-A-160": {
+              "Value": "28.62"
+            },
+            "GH-A-176": {
+              "Value": "86.849"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "水泵房"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "cfcc4dbc-531f-4d55-a99d-830d93c218a1-0019a65b",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1680987
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-175": {
+              "Value": "B1"
+            },
+            "GH-A-166": {
+              "Value": "6.15"
+            },
+            "GH-A-161": {
+              "Value": "28.60"
+            },
+            "GH-A-160": {
+              "Value": "28.60"
+            },
+            "GH-A-176": {
+              "Value": "25.705"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "疏散楼梯"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "cfcc4dbc-531f-4d55-a99d-830d93c218a1-0019a65e",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1680990
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-175": {
+              "Value": "B1"
+            },
+            "GH-A-166": {
+              "Value": "6.14"
+            },
+            "GH-A-161": {
+              "Value": "28.75"
+            },
+            "GH-A-160": {
+              "Value": "28.62"
+            },
+            "GH-A-176": {
+              "Value": "33.252"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "设备机房"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "cfcc4dbc-531f-4d55-a99d-830d93c218a1-0019a661",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1680993
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-175": {
+              "Value": "B1"
+            },
+            "GH-A-166": {
+              "Value": "6.15"
+            },
+            "GH-A-161": {
+              "Value": "28.60"
+            },
+            "GH-A-160": {
+              "Value": "28.60"
+            },
+            "GH-A-176": {
+              "Value": "15.325"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "电梯井道"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "cfcc4dbc-531f-4d55-a99d-830d93c218a1-0019a664",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1680996
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-175": {
+              "Value": "B1"
+            },
+            "GH-A-166": {
+              "Value": "6.15"
+            },
+            "GH-A-161": {
+              "Value": "28.75"
+            },
+            "GH-A-160": {
+              "Value": "28.62"
+            },
+            "GH-A-176": {
+              "Value": "22.341"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "电梯厅"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "cfcc4dbc-531f-4d55-a99d-830d93c218a1-0019a667",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1680999
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-175": {
+              "Value": "B1"
+            },
+            "GH-A-166": {
+              "Value": "6.15"
+            },
+            "GH-A-161": {
+              "Value": "28.60"
+            },
+            "GH-A-160": {
+              "Value": "28.60"
+            },
+            "GH-A-176": {
+              "Value": "19.616"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "疏散楼梯"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "cfcc4dbc-531f-4d55-a99d-830d93c218a1-0019a66a",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1681002
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-175": {
+              "Value": "B1"
+            },
+            "GH-A-166": {
+              "Value": "6.15"
+            },
+            "GH-A-161": {
+              "Value": "29.10"
+            },
+            "GH-A-160": {
+              "Value": "28.62"
+            },
+            "GH-A-176": {
+              "Value": "1942.881"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "停车库"
+            },
+            "GH-A-159": {
+              "Value": "室内机动车停车库"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019a762",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1681250
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-175": {
+              "Value": "B1"
+            },
+            "GH-A-166": {
+              "Value": "6.15"
+            },
+            "GH-A-161": {
+              "Value": "28.60"
+            },
+            "GH-A-160": {
+              "Value": "28.60"
+            },
+            "GH-A-176": {
+              "Value": "19.180"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "疏散楼梯"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019a7b5",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1681333
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-175": {
+              "Value": "B1"
+            },
+            "GH-A-166": {
+              "Value": "6.15"
+            },
+            "GH-A-161": {
+              "Value": "28.60"
+            },
+            "GH-A-160": {
+              "Value": "28.60"
+            },
+            "GH-A-176": {
+              "Value": "28.462"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "疏散楼梯"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019a7b8",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1681336
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-175": {
+              "Value": "B1"
+            },
+            "GH-A-166": {
+              "Value": "6.15"
+            },
+            "GH-A-161": {
+              "Value": "28.60"
+            },
+            "GH-A-160": {
+              "Value": "28.60"
+            },
+            "GH-A-176": {
+              "Value": "34.040"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "电梯井道"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019a8f3",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1681651
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-175": {
+              "Value": "B1"
+            },
+            "GH-A-166": {
+              "Value": "4.65"
+            },
+            "GH-A-161": {
+              "Value": "4.80"
+            },
+            "GH-A-160": {
+              "Value": "28.05"
+            },
+            "GH-A-176": {
+              "Value": "21.710"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "电梯厅"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019b1ca",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1683914
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-175": {
+              "Value": "F1"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "22.45"
+            },
+            "GH-A-160": {
+              "Value": "22.45"
+            },
+            "GH-A-176": {
+              "Value": "30.861"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "疏散楼梯"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019b1cd",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1683917
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-175": {
+              "Value": "F1"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "22.45"
+            },
+            "GH-A-160": {
+              "Value": "22.45"
+            },
+            "GH-A-176": {
+              "Value": "11.723"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "设备竖井"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019b1d0",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1683920
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-175": {
+              "Value": "F1"
+            },
+            "GH-A-166": {
+              "Value": "4.49"
+            },
+            "GH-A-161": {
+              "Value": "22.85"
+            },
+            "GH-A-160": {
+              "Value": "22.37"
+            },
+            "GH-A-176": {
+              "Value": "574.804"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "公共配套设施"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019b1d3",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1683923
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-175": {
+              "Value": "F1"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "22.45"
+            },
+            "GH-A-160": {
+              "Value": "22.45"
+            },
+            "GH-A-176": {
+              "Value": "31.710"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "电梯井道"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019b1d6",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1683926
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-175": {
+              "Value": "F1"
+            },
+            "GH-A-166": {
+              "Value": "4.49"
+            },
+            "GH-A-161": {
+              "Value": "22.50"
+            },
+            "GH-A-160": {
+              "Value": "22.37"
+            },
+            "GH-A-176": {
+              "Value": "31.383"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "工具间"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019b1d9",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1683929
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-175": {
+              "Value": "F1"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "22.45"
+            },
+            "GH-A-160": {
+              "Value": "22.45"
+            },
+            "GH-A-176": {
+              "Value": "30.618"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "疏散楼梯"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019c40d",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1688589
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-175": {
+              "Value": "F1"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "22.45"
+            },
+            "GH-A-160": {
+              "Value": "22.45"
+            },
+            "GH-A-176": {
+              "Value": "25.671"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "疏散楼梯"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019c410",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1688592
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-175": {
+              "Value": "F1"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "22.50"
+            },
+            "GH-A-160": {
+              "Value": "22.37"
+            },
+            "GH-A-176": {
+              "Value": "60.791"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "办公室"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019c413",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1688595
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-175": {
+              "Value": "F1"
+            },
+            "GH-A-166": {
+              "Value": "4.49"
+            },
+            "GH-A-161": {
+              "Value": "13.50"
+            },
+            "GH-A-160": {
+              "Value": "21.90"
+            },
+            "GH-A-176": {
+              "Value": "112.057"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "走廊"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019c416",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1688598
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-175": {
+              "Value": "F1"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "22.50"
+            },
+            "GH-A-160": {
+              "Value": "22.37"
+            },
+            "GH-A-176": {
+              "Value": "54.906"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "卫生间"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019c419",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1688601
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-175": {
+              "Value": "F1"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "22.50"
+            },
+            "GH-A-160": {
+              "Value": "22.37"
+            },
+            "GH-A-176": {
+              "Value": "22.003"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "电梯厅"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019c41c",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1688604
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-175": {
+              "Value": "F1"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "22.45"
+            },
+            "GH-A-160": {
+              "Value": "22.45"
+            },
+            "GH-A-176": {
+              "Value": "18.223"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "电梯井道"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019c41f",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1688607
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-175": {
+              "Value": "F1"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "22.45"
+            },
+            "GH-A-160": {
+              "Value": "22.45"
+            },
+            "GH-A-176": {
+              "Value": "25.666"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "疏散楼梯"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019c422",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1688610
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-175": {
+              "Value": "F1"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "22.50"
+            },
+            "GH-A-160": {
+              "Value": "22.37"
+            },
+            "GH-A-176": {
+              "Value": "74.037"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "设备机房"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019c425",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1688613
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-175": {
+              "Value": "F1"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "22.50"
+            },
+            "GH-A-160": {
+              "Value": "22.37"
+            },
+            "GH-A-176": {
+              "Value": "100.845"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "办公室"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019c42b",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1688619
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-175": {
+              "Value": "F1"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "22.85"
+            },
+            "GH-A-160": {
+              "Value": "22.37"
+            },
+            "GH-A-176": {
+              "Value": "101.935"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "办公室"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "7e84ed8a-4b97-4dc2-9221-99f8eb41a1f6-0019c43b",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1688635
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-175": {
+              "Value": "F1"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "22.45"
+            },
+            "GH-A-160": {
+              "Value": "22.45"
+            },
+            "GH-A-176": {
+              "Value": "3.750"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "设备竖井"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "2aa67c57-5d9b-41f8-839b-6d72a347854c-0019cc40",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1690688
+            },
+            "GH-A-135": {
+              "Value": "Roof"
+            },
+            "GH-A-175": {
+              "Value": "Roof"
+            },
+            "GH-A-166": {
+              "Value": "2.05"
+            },
+            "GH-A-161": {
+              "Value": "7.40"
+            },
+            "GH-A-160": {
+              "Value": "7.30"
+            },
+            "GH-A-176": {
+              "Value": "1707.718"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "屋顶"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "2aa67c57-5d9b-41f8-839b-6d72a347854c-0019cc43",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1690691
+            },
+            "GH-A-135": {
+              "Value": "Roof"
+            },
+            "GH-A-175": {
+              "Value": "Roof"
+            },
+            "GH-A-166": {
+              "Value": "-"
+            },
+            "GH-A-161": {
+              "Value": "-"
+            },
+            "GH-A-160": {
+              "Value": "-"
+            },
+            "GH-A-176": {
+              "Value": "24.097"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "疏散楼梯"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "2aa67c57-5d9b-41f8-839b-6d72a347854c-0019cc77",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1690743
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-175": {
+              "Value": "F2;F3;F4;F5"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "17.95"
+            },
+            "GH-A-160": {
+              "Value": "17.95"
+            },
+            "GH-A-176": {
+              "Value": "30.861"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "疏散楼梯"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "2aa67c57-5d9b-41f8-839b-6d72a347854c-0019cc79",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1690745
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-175": {
+              "Value": "F2;F3;F4;F5"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "17.95"
+            },
+            "GH-A-160": {
+              "Value": "17.95"
+            },
+            "GH-A-176": {
+              "Value": "11.723"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "设备竖井"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "2aa67c57-5d9b-41f8-839b-6d72a347854c-0019cc7b",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1690747
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-175": {
+              "Value": "F2;F3;F4;F5"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "18.35"
+            },
+            "GH-A-160": {
+              "Value": "17.87"
+            },
+            "GH-A-176": {
+              "Value": "574.804"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "公共配套设施"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "2aa67c57-5d9b-41f8-839b-6d72a347854c-0019cc7d",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1690749
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-175": {
+              "Value": "F2;F3;F4;F5"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "17.95"
+            },
+            "GH-A-160": {
+              "Value": "17.95"
+            },
+            "GH-A-176": {
+              "Value": "31.710"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "电梯井道"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "2aa67c57-5d9b-41f8-839b-6d72a347854c-0019cc7f",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1690751
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-175": {
+              "Value": "F2;F3;F4;F5"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "18.25"
+            },
+            "GH-A-160": {
+              "Value": "18.12"
+            },
+            "GH-A-176": {
+              "Value": "31.383"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "工具间"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "2aa67c57-5d9b-41f8-839b-6d72a347854c-0019cc81",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1690753
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-175": {
+              "Value": "F2;F3;F4;F5"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "17.95"
+            },
+            "GH-A-160": {
+              "Value": "17.95"
+            },
+            "GH-A-176": {
+              "Value": "30.618"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "疏散楼梯"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "2aa67c57-5d9b-41f8-839b-6d72a347854c-0019ccbf",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1690815
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-175": {
+              "Value": "F2;F3;F4;F5"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "17.95"
+            },
+            "GH-A-160": {
+              "Value": "17.95"
+            },
+            "GH-A-176": {
+              "Value": "35.846"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "疏散楼梯"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "2aa67c57-5d9b-41f8-839b-6d72a347854c-0019ccc1",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1690817
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-175": {
+              "Value": "F2;F3;F4;F5"
+            },
+            "GH-A-166": {
+              "Value": "4.48"
+            },
+            "GH-A-161": {
+              "Value": "9.00"
+            },
+            "GH-A-160": {
+              "Value": "17.60"
+            },
+            "GH-A-176": {
+              "Value": "131.703"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "办公室"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "2aa67c57-5d9b-41f8-839b-6d72a347854c-0019ccc7",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1690823
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-175": {
+              "Value": "F2;F3;F4;F5"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "18.00"
+            },
+            "GH-A-160": {
+              "Value": "17.87"
+            },
+            "GH-A-176": {
+              "Value": "22.003"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "电梯厅"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "2aa67c57-5d9b-41f8-839b-6d72a347854c-0019ccc9",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1690825
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-175": {
+              "Value": "F2;F3;F4;F5"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "17.95"
+            },
+            "GH-A-160": {
+              "Value": "17.95"
+            },
+            "GH-A-176": {
+              "Value": "18.223"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "电梯井道"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "2aa67c57-5d9b-41f8-839b-6d72a347854c-0019cccb",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1690827
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-175": {
+              "Value": "F2;F3;F4;F5"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "17.95"
+            },
+            "GH-A-160": {
+              "Value": "17.95"
+            },
+            "GH-A-176": {
+              "Value": "25.666"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "疏散楼梯"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "2aa67c57-5d9b-41f8-839b-6d72a347854c-0019cccd",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1690829
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-175": {
+              "Value": "F2;F3;F4;F5"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "18.00"
+            },
+            "GH-A-160": {
+              "Value": "17.87"
+            },
+            "GH-A-176": {
+              "Value": "74.037"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "设备机房"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "2aa67c57-5d9b-41f8-839b-6d72a347854c-0019cccf",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1690831
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-175": {
+              "Value": "F2;F3;F4;F5"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "18.00"
+            },
+            "GH-A-160": {
+              "Value": "17.87"
+            },
+            "GH-A-176": {
+              "Value": "98.429"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "办公室"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "2aa67c57-5d9b-41f8-839b-6d72a347854c-0019ccd1",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1690833
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-175": {
+              "Value": "F2;F3;F4;F5"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "18.35"
+            },
+            "GH-A-160": {
+              "Value": "17.87"
+            },
+            "GH-A-176": {
+              "Value": "99.429"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "办公室"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "2aa67c57-5d9b-41f8-839b-6d72a347854c-0019ccd3",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1690835
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-175": {
+              "Value": "F2;F3;F4;F5"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "17.95"
+            },
+            "GH-A-160": {
+              "Value": "17.95"
+            },
+            "GH-A-176": {
+              "Value": "3.750"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "设备竖井"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "2aa67c57-5d9b-41f8-839b-6d72a347854c-0019d387",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1692551
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-175": {
+              "Value": "F2;F3;F4;F5"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "18.00"
+            },
+            "GH-A-160": {
+              "Value": "17.87"
+            },
+            "GH-A-176": {
+              "Value": "86.013"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "智能化系统机房"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "2aa67c57-5d9b-41f8-839b-6d72a347854c-0019d38a",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1692554
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-175": {
+              "Value": "F2;F3;F4;F5"
+            },
+            "GH-A-166": {
+              "Value": "3.17"
+            },
+            "GH-A-161": {
+              "Value": "3.22"
+            },
+            "GH-A-160": {
+              "Value": "17.30"
+            },
+            "GH-A-176": {
+              "Value": "12.498"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "连廊"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        },
+        {
+          "uid": "2aa67c57-5d9b-41f8-839b-6d72a347854c-0019d38d",
+          "properties": {
+            "SC-TY-40": {
+              "Value": 1692557
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-175": {
+              "Value": "F2;F3;F4;F5"
+            },
+            "GH-A-166": {
+              "Value": "4.50"
+            },
+            "GH-A-161": {
+              "Value": "18.00"
+            },
+            "GH-A-160": {
+              "Value": "17.87"
+            },
+            "GH-A-176": {
+              "Value": "146.073"
+            },
+            "GH-A-167": {
+              "Value": "否"
+            },
+            "GH-A-125": {
+              "Value": "多媒体阅览室"
+            },
+            "GH-A-159": {
+              "Value": "其他"
+            }
+          }
+        }
+      ],
+      "parkingList": [
+        {
+          "uid": "29208a84-1792-4b92-9b5b-ee94306597a8-000c1829",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d60b",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d686",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d687",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d688",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d689",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d68a",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d68b",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d68c",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d6e2",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d6e3",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d6e4",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d6e5",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d6e6",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d6e7",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d6e8",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d6e9",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d6ea",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d75b",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d75c",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d75d",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d8cc",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d8cd",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d906",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d907",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d908",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d940",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d941",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d942",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d977",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d978",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "1ac5463f-f238-49f2-a20d-50073836e9ab-0019da6c",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "1ac5463f-f238-49f2-a20d-50073836e9ab-0019da6d",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d7f2",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位-电动"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d83f",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位-电动"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d847",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位-电动"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d84f",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "自走式停车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 12.77
+            },
+            "FH-A-137": {
+              "Value": "地下车库停车位-电动"
+            },
+            "FH-A-136": {
+              "Value": "NJ-自走式停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019d9a5",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "无障碍车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 14.35
+            },
+            "FH-A-137": {
+              "Value": "6000mm x 2400mm"
+            },
+            "FH-A-136": {
+              "Value": "NJ-无障碍停车位"
+            }
+          }
+        },
+        {
+          "uid": "18c2ffbf-b142-40b9-9b3e-0a2672af7dfc-0019da24",
+          "properties": {
+            "GH-A-370": {
+              "Value": "否"
+            },
+            "GH-A-138": {
+              "Value": "无障碍车位"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-335": {
+              "Value": 14.35
+            },
+            "FH-A-137": {
+              "Value": "6000mm x 2400mm"
+            },
+            "FH-A-136": {
+              "Value": "NJ-无障碍停车位"
+            }
+          }
+        }
+      ],
+      "roomList": [
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-00065045",
+          "properties": {
+            "GH-A-130": {
+              "Value": "27.135"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "27.135"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-00065048",
+          "properties": {
+            "GH-A-130": {
+              "Value": "26.195"
+            },
+            "GH-A-136": {
+              "Value": "2.18"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "26.195"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-0006504b",
+          "properties": {
+            "GH-A-130": {
+              "Value": "18.311"
+            },
+            "GH-A-136": {
+              "Value": "2.20"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "18.311"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-0006504e",
+          "properties": {
+            "GH-A-130": {
+              "Value": "23.508"
+            },
+            "GH-A-136": {
+              "Value": "2.60"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "23.508"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-00065051",
+          "properties": {
+            "GH-A-130": {
+              "Value": "6.210"
+            },
+            "GH-A-136": {
+              "Value": "2.30"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "6.210"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-00065054",
+          "properties": {
+            "GH-A-130": {
+              "Value": "6.810"
+            },
+            "GH-A-136": {
+              "Value": "1.80"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "6.810"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-00065057",
+          "properties": {
+            "GH-A-130": {
+              "Value": "6.081"
+            },
+            "GH-A-136": {
+              "Value": "2.25"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "6.081"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-0006505a",
+          "properties": {
+            "GH-A-130": {
+              "Value": "18.278"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "18.278"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-000650ed",
+          "properties": {
+            "GH-A-130": {
+              "Value": "20.790"
+            },
+            "GH-A-136": {
+              "Value": "2.43"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "20.790"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-000650f0",
+          "properties": {
+            "GH-A-130": {
+              "Value": "47.743"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "47.743"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-000650f3",
+          "properties": {
+            "GH-A-130": {
+              "Value": "21.666"
+            },
+            "GH-A-136": {
+              "Value": "3.55"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "21.666"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-000650f6",
+          "properties": {
+            "GH-A-130": {
+              "Value": "0.807"
+            },
+            "GH-A-136": {
+              "Value": "0.85"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "0.807"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-000650f9",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.210"
+            },
+            "GH-A-136": {
+              "Value": "0.85"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "2.210"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-000650fc",
+          "properties": {
+            "GH-A-130": {
+              "Value": "42.596"
+            },
+            "GH-A-136": {
+              "Value": "2.46"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "42.596"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-000650ff",
+          "properties": {
+            "GH-A-130": {
+              "Value": "21.106"
+            },
+            "GH-A-136": {
+              "Value": "3.55"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "21.106"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-00065102",
+          "properties": {
+            "GH-A-130": {
+              "Value": "1.501"
+            },
+            "GH-A-136": {
+              "Value": "0.60"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "1.501"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-00065105",
+          "properties": {
+            "GH-A-130": {
+              "Value": "91.598"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "91.598"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-00065108",
+          "properties": {
+            "GH-A-130": {
+              "Value": "48.797"
+            },
+            "GH-A-136": {
+              "Value": "5.90"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "48.797"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-0006510b",
+          "properties": {
+            "GH-A-130": {
+              "Value": "53.330"
+            },
+            "GH-A-136": {
+              "Value": "4.80"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "53.330"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-0006510e",
+          "properties": {
+            "GH-A-130": {
+              "Value": "9.386"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "9.386"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-00065111",
+          "properties": {
+            "GH-A-130": {
+              "Value": "1.480"
+            },
+            "GH-A-136": {
+              "Value": "0.80"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "1.480"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-00065114",
+          "properties": {
+            "GH-A-130": {
+              "Value": "25.337"
+            },
+            "GH-A-136": {
+              "Value": "3.37"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "25.337"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-00065117",
+          "properties": {
+            "GH-A-130": {
+              "Value": "544.951"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "544.951"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-0006511a",
+          "properties": {
+            "GH-A-130": {
+              "Value": "29.000"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "29.000"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-0006511d",
+          "properties": {
+            "GH-A-130": {
+              "Value": "27.413"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "27.413"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-00065120",
+          "properties": {
+            "GH-A-130": {
+              "Value": "27.101"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "27.101"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-00065123",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.635"
+            },
+            "GH-A-136": {
+              "Value": "1.55"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "2.635"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-00065126",
+          "properties": {
+            "GH-A-130": {
+              "Value": "1.705"
+            },
+            "GH-A-136": {
+              "Value": "1.10"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "1.705"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-00065129",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.557"
+            },
+            "GH-A-136": {
+              "Value": "1.55"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "2.557"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-0006512c",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.258"
+            },
+            "GH-A-136": {
+              "Value": "0.95"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "2.258"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-00065199",
+          "properties": {
+            "GH-A-130": {
+              "Value": "133.941"
+            },
+            "GH-A-136": {
+              "Value": "7.55"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "133.941"
+            }
+          }
+        },
+        {
+          "uid": "f871138e-d52e-4944-a89a-c50668e0b6b4-00065204",
+          "properties": {
+            "GH-A-130": {
+              "Value": "22.224"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "22.224"
+            }
+          }
+        },
+        {
+          "uid": "b653d641-1299-4a40-a3d9-57d36991cbb1-00065244",
+          "properties": {
+            "GH-A-130": {
+              "Value": "0.855"
+            },
+            "GH-A-136": {
+              "Value": "0.40"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "0.855"
+            }
+          }
+        },
+        {
+          "uid": "b653d641-1299-4a40-a3d9-57d36991cbb1-00065247",
+          "properties": {
+            "GH-A-130": {
+              "Value": "0.455"
+            },
+            "GH-A-136": {
+              "Value": "0.65"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "0.455"
+            }
+          }
+        },
+        {
+          "uid": "b653d641-1299-4a40-a3d9-57d36991cbb1-0006525a",
+          "properties": {
+            "GH-A-130": {
+              "Value": "1.575"
+            },
+            "GH-A-136": {
+              "Value": "0.45"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "1.575"
+            }
+          }
+        },
+        {
+          "uid": "baa7e739-edb5-434e-ba90-93249fe05649-00065261",
+          "properties": {
+            "GH-A-130": {
+              "Value": "0.337"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "0.337"
+            }
+          }
+        },
+        {
+          "uid": "3da213f2-fb61-49a7-a7f4-3cacafb8c2d6-00066993",
+          "properties": {
+            "GH-A-130": {
+              "Value": "0.400"
+            },
+            "GH-A-135": {
+              "Value": "F1"
+            },
+            "GH-A-426": {
+              "Value": "0.400"
+            }
+          }
+        },
+        {
+          "uid": "b5ba015b-78c5-4fe0-ae6e-315f4b3ae2d5-0006699a",
+          "properties": {
+            "GH-A-130": {
+              "Value": "79.378"
+            },
+            "GH-A-136": {
+              "Value": "6.27"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "79.378"
+            }
+          }
+        },
+        {
+          "uid": "b5ba015b-78c5-4fe0-ae6e-315f4b3ae2d5-000669a0",
+          "properties": {
+            "GH-A-130": {
+              "Value": "1.575"
+            },
+            "GH-A-136": {
+              "Value": "0.45"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "1.575"
+            }
+          }
+        },
+        {
+          "uid": "b5ba015b-78c5-4fe0-ae6e-315f4b3ae2d5-000669a3",
+          "properties": {
+            "GH-A-130": {
+              "Value": "6.210"
+            },
+            "GH-A-136": {
+              "Value": "2.30"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "6.210"
+            }
+          }
+        },
+        {
+          "uid": "b5ba015b-78c5-4fe0-ae6e-315f4b3ae2d5-000669a6",
+          "properties": {
+            "GH-A-130": {
+              "Value": "6.810"
+            },
+            "GH-A-136": {
+              "Value": "1.80"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "6.810"
+            }
+          }
+        },
+        {
+          "uid": "b5ba015b-78c5-4fe0-ae6e-315f4b3ae2d5-000669a9",
+          "properties": {
+            "GH-A-130": {
+              "Value": "18.279"
+            },
+            "GH-A-136": {
+              "Value": "2.12"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "18.279"
+            }
+          }
+        },
+        {
+          "uid": "b5ba015b-78c5-4fe0-ae6e-315f4b3ae2d5-000669b7",
+          "properties": {
+            "GH-A-130": {
+              "Value": "91.853"
+            },
+            "GH-A-136": {
+              "Value": "7.65"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "91.853"
+            }
+          }
+        },
+        {
+          "uid": "5a5c7c25-94a1-42da-ae95-2f01d4d4c956-000669c6",
+          "properties": {
+            "GH-A-130": {
+              "Value": "0.400"
+            },
+            "GH-A-136": {
+              "Value": "0.55"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "0.400"
+            }
+          }
+        },
+        {
+          "uid": "5a5c7c25-94a1-42da-ae95-2f01d4d4c956-000669d1",
+          "properties": {
+            "GH-A-130": {
+              "Value": "66.925"
+            },
+            "GH-A-136": {
+              "Value": "7.60"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "66.925"
+            }
+          }
+        },
+        {
+          "uid": "5a5c7c25-94a1-42da-ae95-2f01d4d4c956-00066b1b",
+          "properties": {
+            "GH-A-130": {
+              "Value": "10.023"
+            },
+            "GH-A-136": {
+              "Value": "1.90"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "10.023"
+            }
+          }
+        },
+        {
+          "uid": "5a5c7c25-94a1-42da-ae95-2f01d4d4c956-00066b24",
+          "properties": {
+            "GH-A-130": {
+              "Value": "20.789"
+            },
+            "GH-A-136": {
+              "Value": "2.43"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "20.789"
+            }
+          }
+        },
+        {
+          "uid": "5f715f42-d7a2-4654-9e7b-6f10ef44b213-00066fdb",
+          "properties": {
+            "GH-A-130": {
+              "Value": "0.335"
+            },
+            "GH-A-136": {
+              "Value": "0.35"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "0.335"
+            }
+          }
+        },
+        {
+          "uid": "5f715f42-d7a2-4654-9e7b-6f10ef44b213-00066fed",
+          "properties": {
+            "GH-A-130": {
+              "Value": "0.855"
+            },
+            "GH-A-136": {
+              "Value": "0.40"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "0.855"
+            }
+          }
+        },
+        {
+          "uid": "5f715f42-d7a2-4654-9e7b-6f10ef44b213-00066ff0",
+          "properties": {
+            "GH-A-130": {
+              "Value": "0.455"
+            },
+            "GH-A-136": {
+              "Value": "0.70"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "0.455"
+            }
+          }
+        },
+        {
+          "uid": "5f715f42-d7a2-4654-9e7b-6f10ef44b213-00067095",
+          "properties": {
+            "GH-A-130": {
+              "Value": "0.807"
+            },
+            "GH-A-136": {
+              "Value": "0.85"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "0.807"
+            }
+          }
+        },
+        {
+          "uid": "5f715f42-d7a2-4654-9e7b-6f10ef44b213-00067098",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.210"
+            },
+            "GH-A-136": {
+              "Value": "0.85"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "2.210"
+            }
+          }
+        },
+        {
+          "uid": "cc061a18-5994-48f5-aa21-898072f4aff6-00067177",
+          "properties": {
+            "GH-A-130": {
+              "Value": "121.489"
+            },
+            "GH-A-136": {
+              "Value": "6.95"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "121.489"
+            }
+          }
+        },
+        {
+          "uid": "a9fc2956-26dd-45b3-8db2-7c4f30c03016-000671ed",
+          "properties": {
+            "GH-A-130": {
+              "Value": "30.849"
+            },
+            "GH-A-136": {
+              "Value": "3.23"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "30.849"
+            }
+          }
+        },
+        {
+          "uid": "a9fc2956-26dd-45b3-8db2-7c4f30c03016-000671fa",
+          "properties": {
+            "GH-A-130": {
+              "Value": "26.170"
+            },
+            "GH-A-136": {
+              "Value": "2.65"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "26.170"
+            }
+          }
+        },
+        {
+          "uid": "a9fc2956-26dd-45b3-8db2-7c4f30c03016-000671fd",
+          "properties": {
+            "GH-A-130": {
+              "Value": "13.810"
+            },
+            "GH-A-136": {
+              "Value": "3.20"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "13.810"
+            }
+          }
+        },
+        {
+          "uid": "a9fc2956-26dd-45b3-8db2-7c4f30c03016-00067200",
+          "properties": {
+            "GH-A-130": {
+              "Value": "16.175"
+            },
+            "GH-A-136": {
+              "Value": "3.25"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "16.175"
+            }
+          }
+        },
+        {
+          "uid": "a9fc2956-26dd-45b3-8db2-7c4f30c03016-00067203",
+          "properties": {
+            "GH-A-130": {
+              "Value": "106.006"
+            },
+            "GH-A-136": {
+              "Value": "6.75"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "106.006"
+            }
+          }
+        },
+        {
+          "uid": "a9fc2956-26dd-45b3-8db2-7c4f30c03016-00067206",
+          "properties": {
+            "GH-A-130": {
+              "Value": "538.927"
+            },
+            "GH-A-136": {
+              "Value": "13.28"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "538.927"
+            }
+          }
+        },
+        {
+          "uid": "a9fc2956-26dd-45b3-8db2-7c4f30c03016-00067209",
+          "properties": {
+            "GH-A-130": {
+              "Value": "29.001"
+            },
+            "GH-A-136": {
+              "Value": "4.00"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "29.001"
+            }
+          }
+        },
+        {
+          "uid": "a9fc2956-26dd-45b3-8db2-7c4f30c03016-0006720c",
+          "properties": {
+            "GH-A-130": {
+              "Value": "8.675"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "8.675"
+            }
+          }
+        },
+        {
+          "uid": "a9fc2956-26dd-45b3-8db2-7c4f30c03016-0006720f",
+          "properties": {
+            "GH-A-130": {
+              "Value": "7.749"
+            },
+            "GH-A-136": {
+              "Value": "0.92"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "7.749"
+            }
+          }
+        },
+        {
+          "uid": "a9fc2956-26dd-45b3-8db2-7c4f30c03016-00067212",
+          "properties": {
+            "GH-A-130": {
+              "Value": "9.760"
+            },
+            "GH-A-136": {
+              "Value": "2.10"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "9.760"
+            }
+          }
+        },
+        {
+          "uid": "a9fc2956-26dd-45b3-8db2-7c4f30c03016-00067215",
+          "properties": {
+            "GH-A-130": {
+              "Value": "27.101"
+            },
+            "GH-A-136": {
+              "Value": "3.33"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "27.101"
+            }
+          }
+        },
+        {
+          "uid": "a9fc2956-26dd-45b3-8db2-7c4f30c03016-00067218",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.635"
+            },
+            "GH-A-136": {
+              "Value": "1.55"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "2.635"
+            }
+          }
+        },
+        {
+          "uid": "a9fc2956-26dd-45b3-8db2-7c4f30c03016-0006721b",
+          "properties": {
+            "GH-A-130": {
+              "Value": "1.705"
+            },
+            "GH-A-136": {
+              "Value": "1.10"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "1.705"
+            }
+          }
+        },
+        {
+          "uid": "a9fc2956-26dd-45b3-8db2-7c4f30c03016-0006721e",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.557"
+            },
+            "GH-A-136": {
+              "Value": "1.55"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "2.557"
+            }
+          }
+        },
+        {
+          "uid": "a9fc2956-26dd-45b3-8db2-7c4f30c03016-00067221",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.258"
+            },
+            "GH-A-136": {
+              "Value": "0.95"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "2.258"
+            }
+          }
+        },
+        {
+          "uid": "9017d425-dd89-4d3a-bbbd-0158b939da31-00067e51",
+          "properties": {
+            "GH-A-130": {
+              "Value": "79.008"
+            },
+            "GH-A-136": {
+              "Value": "6.27"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "79.008"
+            }
+          }
+        },
+        {
+          "uid": "9017d425-dd89-4d3a-bbbd-0158b939da31-00067e54",
+          "properties": {
+            "GH-A-130": {
+              "Value": "20.789"
+            },
+            "GH-A-136": {
+              "Value": "2.43"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "20.789"
+            }
+          }
+        },
+        {
+          "uid": "9017d425-dd89-4d3a-bbbd-0158b939da31-00067e57",
+          "properties": {
+            "GH-A-130": {
+              "Value": "6.210"
+            },
+            "GH-A-136": {
+              "Value": "2.30"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "6.210"
+            }
+          }
+        },
+        {
+          "uid": "9017d425-dd89-4d3a-bbbd-0158b939da31-00067e5a",
+          "properties": {
+            "GH-A-130": {
+              "Value": "6.810"
+            },
+            "GH-A-136": {
+              "Value": "1.80"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "6.810"
+            }
+          }
+        },
+        {
+          "uid": "9017d425-dd89-4d3a-bbbd-0158b939da31-00067e5d",
+          "properties": {
+            "GH-A-130": {
+              "Value": "1.935"
+            },
+            "GH-A-136": {
+              "Value": "0.50"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "1.935"
+            }
+          }
+        },
+        {
+          "uid": "9017d425-dd89-4d3a-bbbd-0158b939da31-00067ec3",
+          "properties": {
+            "GH-A-130": {
+              "Value": "17.243"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "17.243"
+            }
+          }
+        },
+        {
+          "uid": "9017d425-dd89-4d3a-bbbd-0158b939da31-00067ec6",
+          "properties": {
+            "GH-A-130": {
+              "Value": "21.645"
+            },
+            "GH-A-136": {
+              "Value": "2.70"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "21.645"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b3cd",
+          "properties": {
+            "GH-A-130": {
+              "Value": "13.521"
+            },
+            "GH-A-136": {
+              "Value": "2.20"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "13.521"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b3d0",
+          "properties": {
+            "GH-A-130": {
+              "Value": "12.815"
+            },
+            "GH-A-136": {
+              "Value": "2.60"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "12.815"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b3d3",
+          "properties": {
+            "GH-A-130": {
+              "Value": "0.400"
+            },
+            "GH-A-136": {
+              "Value": "0.55"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "0.400"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b3d6",
+          "properties": {
+            "GH-A-130": {
+              "Value": "284.730"
+            },
+            "GH-A-136": {
+              "Value": "7.70"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "284.730"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b3d9",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.085"
+            },
+            "GH-A-136": {
+              "Value": "0.70"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "2.085"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b3dc",
+          "properties": {
+            "GH-A-130": {
+              "Value": "62.537"
+            },
+            "GH-A-136": {
+              "Value": "4.70"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "62.537"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b3df",
+          "properties": {
+            "GH-A-130": {
+              "Value": "35.147"
+            },
+            "GH-A-136": {
+              "Value": "3.13"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "35.147"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b3e2",
+          "properties": {
+            "GH-A-130": {
+              "Value": "26.204"
+            },
+            "GH-A-136": {
+              "Value": "2.62"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "26.204"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b3e5",
+          "properties": {
+            "GH-A-130": {
+              "Value": "26.405"
+            },
+            "GH-A-136": {
+              "Value": "2.60"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "26.405"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b3e8",
+          "properties": {
+            "GH-A-130": {
+              "Value": "183.055"
+            },
+            "GH-A-136": {
+              "Value": "9.05"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "183.055"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b3eb",
+          "properties": {
+            "GH-A-130": {
+              "Value": "27.101"
+            },
+            "GH-A-136": {
+              "Value": "3.33"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "27.101"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b3ee",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.635"
+            },
+            "GH-A-136": {
+              "Value": "1.55"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "2.635"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b3f1",
+          "properties": {
+            "GH-A-130": {
+              "Value": "1.705"
+            },
+            "GH-A-136": {
+              "Value": "1.10"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "1.705"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b3f4",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.557"
+            },
+            "GH-A-136": {
+              "Value": "1.55"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "2.557"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b3f7",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.258"
+            },
+            "GH-A-136": {
+              "Value": "0.95"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "2.258"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b3fa",
+          "properties": {
+            "GH-A-130": {
+              "Value": "27.413"
+            },
+            "GH-A-136": {
+              "Value": "3.35"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "27.413"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b3fd",
+          "properties": {
+            "GH-A-130": {
+              "Value": "29.000"
+            },
+            "GH-A-136": {
+              "Value": "4.00"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "29.000"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b41f",
+          "properties": {
+            "GH-A-130": {
+              "Value": "30.849"
+            },
+            "GH-A-136": {
+              "Value": "3.23"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "30.849"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b42d",
+          "properties": {
+            "GH-A-130": {
+              "Value": "0.780"
+            },
+            "GH-A-136": {
+              "Value": "0.40"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "0.780"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b430",
+          "properties": {
+            "GH-A-130": {
+              "Value": "0.420"
+            },
+            "GH-A-136": {
+              "Value": "0.60"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "0.420"
+            }
+          }
+        },
+        {
+          "uid": "5299595f-6186-4a3b-a2d4-b106002cd2cc-0006b447",
+          "properties": {
+            "GH-A-130": {
+              "Value": "1.579"
+            },
+            "GH-A-136": {
+              "Value": "0.40"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "1.579"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c06a",
+          "properties": {
+            "GH-A-130": {
+              "Value": "30.850"
+            },
+            "GH-A-136": {
+              "Value": "3.23"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "30.850"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c06d",
+          "properties": {
+            "GH-A-130": {
+              "Value": "0.400"
+            },
+            "GH-A-136": {
+              "Value": "0.55"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "0.400"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c076",
+          "properties": {
+            "GH-A-130": {
+              "Value": "69.154"
+            },
+            "GH-A-136": {
+              "Value": "7.83"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "69.154"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c079",
+          "properties": {
+            "GH-A-130": {
+              "Value": "80.236"
+            },
+            "GH-A-136": {
+              "Value": "6.20"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "80.236"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c07c",
+          "properties": {
+            "GH-A-130": {
+              "Value": "26.405"
+            },
+            "GH-A-136": {
+              "Value": "2.60"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "26.405"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c07f",
+          "properties": {
+            "GH-A-130": {
+              "Value": "31.445"
+            },
+            "GH-A-136": {
+              "Value": "3.30"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "31.445"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c082",
+          "properties": {
+            "GH-A-130": {
+              "Value": "642.311"
+            },
+            "GH-A-136": {
+              "Value": "13.15"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "642.311"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c085",
+          "properties": {
+            "GH-A-130": {
+              "Value": "28.995"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "28.995"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c088",
+          "properties": {
+            "GH-A-130": {
+              "Value": "27.413"
+            },
+            "GH-A-136": {
+              "Value": "3.35"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "27.413"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c08b",
+          "properties": {
+            "GH-A-130": {
+              "Value": "27.101"
+            },
+            "GH-A-136": {
+              "Value": "3.33"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "27.101"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c08e",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.635"
+            },
+            "GH-A-136": {
+              "Value": "1.55"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "2.635"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c091",
+          "properties": {
+            "GH-A-130": {
+              "Value": "1.705"
+            },
+            "GH-A-136": {
+              "Value": "1.10"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "1.705"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c094",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.557"
+            },
+            "GH-A-136": {
+              "Value": "1.55"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "2.557"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c097",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.258"
+            },
+            "GH-A-136": {
+              "Value": "0.95"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "2.258"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c09d",
+          "properties": {
+            "GH-A-130": {
+              "Value": "35.147"
+            },
+            "GH-A-136": {
+              "Value": "3.13"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "35.147"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c0a0",
+          "properties": {
+            "GH-A-130": {
+              "Value": "26.204"
+            },
+            "GH-A-136": {
+              "Value": "2.62"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "26.204"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c0a3",
+          "properties": {
+            "GH-A-130": {
+              "Value": "6.210"
+            },
+            "GH-A-136": {
+              "Value": "2.30"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "6.210"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c0a6",
+          "properties": {
+            "GH-A-130": {
+              "Value": "6.810"
+            },
+            "GH-A-136": {
+              "Value": "1.80"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "6.810"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c0a9",
+          "properties": {
+            "GH-A-130": {
+              "Value": "1.575"
+            },
+            "GH-A-136": {
+              "Value": "0.45"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "1.575"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c0b9",
+          "properties": {
+            "GH-A-130": {
+              "Value": "17.130"
+            },
+            "GH-A-136": {
+              "Value": "2.12"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "17.130"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c0bc",
+          "properties": {
+            "GH-A-130": {
+              "Value": "22.728"
+            },
+            "GH-A-136": {
+              "Value": "2.70"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "22.728"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c0bf",
+          "properties": {
+            "GH-A-130": {
+              "Value": "0.855"
+            },
+            "GH-A-136": {
+              "Value": "0.40"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "0.855"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c0c2",
+          "properties": {
+            "GH-A-130": {
+              "Value": "0.455"
+            },
+            "GH-A-136": {
+              "Value": "0.70"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "0.455"
+            }
+          }
+        },
+        {
+          "uid": "c85b4524-3db6-4e8f-bac5-51eb89477c24-0006c1a8",
+          "properties": {
+            "GH-A-130": {
+              "Value": "127.855"
+            },
+            "GH-A-136": {
+              "Value": "6.25"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "127.855"
+            }
+          }
+        },
+        {
+          "uid": "b7370f2a-025d-46b6-a7ea-4d875e3c7c28-0006c1b1",
+          "properties": {
+            "GH-A-130": {
+              "Value": "20.789"
+            },
+            "GH-A-136": {
+              "Value": "2.43"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "20.789"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c485",
+          "properties": {
+            "GH-A-130": {
+              "Value": "55.133"
+            },
+            "GH-A-136": {
+              "Value": "4.60"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "55.133"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c488",
+          "properties": {
+            "GH-A-130": {
+              "Value": "54.253"
+            },
+            "GH-A-136": {
+              "Value": "4.63"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "54.253"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c48b",
+          "properties": {
+            "GH-A-130": {
+              "Value": "6.210"
+            },
+            "GH-A-136": {
+              "Value": "2.30"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "6.210"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c48e",
+          "properties": {
+            "GH-A-130": {
+              "Value": "6.810"
+            },
+            "GH-A-136": {
+              "Value": "1.80"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "6.810"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c491",
+          "properties": {
+            "GH-A-130": {
+              "Value": "1.575"
+            },
+            "GH-A-136": {
+              "Value": "0.45"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "1.575"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c49e",
+          "properties": {
+            "GH-A-130": {
+              "Value": "17.130"
+            },
+            "GH-A-136": {
+              "Value": "2.12"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "17.130"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c4a1",
+          "properties": {
+            "GH-A-130": {
+              "Value": "21.535"
+            },
+            "GH-A-136": {
+              "Value": "2.70"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "21.535"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c4a4",
+          "properties": {
+            "GH-A-130": {
+              "Value": "35.147"
+            },
+            "GH-A-136": {
+              "Value": "3.13"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "35.147"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c525",
+          "properties": {
+            "GH-A-130": {
+              "Value": "122.959"
+            },
+            "GH-A-136": {
+              "Value": "7.32"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "122.959"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c52b",
+          "properties": {
+            "GH-A-130": {
+              "Value": "20.788"
+            },
+            "GH-A-136": {
+              "Value": "2.43"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "20.788"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c52e",
+          "properties": {
+            "GH-A-130": {
+              "Value": "26.944"
+            },
+            "GH-A-136": {
+              "Value": "3.50"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "26.944"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c531",
+          "properties": {
+            "GH-A-130": {
+              "Value": "148.142"
+            },
+            "GH-A-136": {
+              "Value": "7.70"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "148.142"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c534",
+          "properties": {
+            "GH-A-130": {
+              "Value": "94.303"
+            },
+            "GH-A-136": {
+              "Value": "7.60"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "94.303"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c537",
+          "properties": {
+            "GH-A-130": {
+              "Value": "94.468"
+            },
+            "GH-A-136": {
+              "Value": "7.85"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "94.468"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c53a",
+          "properties": {
+            "GH-A-130": {
+              "Value": "90.999"
+            },
+            "GH-A-136": {
+              "Value": "7.40"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "90.999"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c53d",
+          "properties": {
+            "GH-A-130": {
+              "Value": "24.215"
+            },
+            "GH-A-136": {
+              "Value": "2.65"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "24.215"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c540",
+          "properties": {
+            "GH-A-130": {
+              "Value": "678.555"
+            },
+            "GH-A-136": {
+              "Value": "13.25"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "678.555"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c543",
+          "properties": {
+            "GH-A-130": {
+              "Value": "26.954"
+            },
+            "GH-A-136": {
+              "Value": "3.33"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "26.954"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c546",
+          "properties": {
+            "GH-A-130": {
+              "Value": "29.265"
+            },
+            "GH-A-136": {
+              "Value": "4.00"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "29.265"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c549",
+          "properties": {
+            "GH-A-130": {
+              "Value": "27.078"
+            },
+            "GH-A-136": {
+              "Value": "3.35"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "27.078"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c54c",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.465"
+            },
+            "GH-A-136": {
+              "Value": "1.45"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "2.465"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c54f",
+          "properties": {
+            "GH-A-130": {
+              "Value": "1.595"
+            },
+            "GH-A-136": {
+              "Value": "1.10"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "1.595"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c552",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.392"
+            },
+            "GH-A-136": {
+              "Value": "1.45"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "2.392"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c555",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.143"
+            },
+            "GH-A-136": {
+              "Value": "0.95"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "2.143"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c56f",
+          "properties": {
+            "GH-A-130": {
+              "Value": "0.855"
+            },
+            "GH-A-136": {
+              "Value": "0.40"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "0.855"
+            }
+          }
+        },
+        {
+          "uid": "5b99ec47-8c86-45f8-84db-caab41ea479a-0006c572",
+          "properties": {
+            "GH-A-130": {
+              "Value": "0.455"
+            },
+            "GH-A-136": {
+              "Value": "0.65"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "0.455"
+            }
+          }
+        },
+        {
+          "uid": "85ffc459-4cb8-4a23-9384-84137d577f17-0006c581",
+          "properties": {
+            "GH-A-130": {
+              "Value": "1.619"
+            },
+            "GH-A-136": {
+              "Value": "0.40"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "1.619"
+            }
+          }
+        },
+        {
+          "uid": "5fafda8d-2332-451c-bc86-f01d25ddba5a-0006c5c0",
+          "properties": {
+            "GH-A-130": {
+              "Value": "19.577"
+            },
+            "GH-A-136": {
+              "Value": "2.45"
+            },
+            "GH-A-135": {
+              "Value": "Roof"
+            },
+            "GH-A-426": {
+              "Value": "19.577"
+            }
+          }
+        },
+        {
+          "uid": "5fafda8d-2332-451c-bc86-f01d25ddba5a-0006c5c3",
+          "properties": {
+            "GH-A-130": {
+              "Value": "3.914"
+            },
+            "GH-A-136": {
+              "Value": "1.35"
+            },
+            "GH-A-135": {
+              "Value": "Roof"
+            },
+            "GH-A-426": {
+              "Value": "3.914"
+            }
+          }
+        },
+        {
+          "uid": "5fafda8d-2332-451c-bc86-f01d25ddba5a-0006c5c6",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.227"
+            },
+            "GH-A-136": {
+              "Value": "1.35"
+            },
+            "GH-A-135": {
+              "Value": "Roof"
+            },
+            "GH-A-426": {
+              "Value": "2.227"
+            }
+          }
+        },
+        {
+          "uid": "5fafda8d-2332-451c-bc86-f01d25ddba5a-0006c5c9",
+          "properties": {
+            "GH-A-130": {
+              "Value": "1.015"
+            },
+            "GH-A-136": {
+              "Value": "0.70"
+            },
+            "GH-A-135": {
+              "Value": "Roof"
+            },
+            "GH-A-426": {
+              "Value": "1.015"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c5d5",
+          "properties": {
+            "GH-A-130": {
+              "Value": "126.806"
+            },
+            "GH-A-136": {
+              "Value": "7.75"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "126.806"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c5d8",
+          "properties": {
+            "GH-A-130": {
+              "Value": "153.768"
+            },
+            "GH-A-136": {
+              "Value": "7.60"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "153.768"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c5db",
+          "properties": {
+            "GH-A-130": {
+              "Value": "100.240"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "100.240"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c5de",
+          "properties": {
+            "GH-A-130": {
+              "Value": "19.888"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "19.888"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c5e1",
+          "properties": {
+            "GH-A-130": {
+              "Value": "78.057"
+            },
+            "GH-A-136": {
+              "Value": "6.50"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "78.057"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c5e7",
+          "properties": {
+            "GH-A-130": {
+              "Value": "6.810"
+            },
+            "GH-A-136": {
+              "Value": "1.80"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "6.810"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c645",
+          "properties": {
+            "GH-A-130": {
+              "Value": "1.575"
+            },
+            "GH-A-136": {
+              "Value": "0.55"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "1.575"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c648",
+          "properties": {
+            "GH-A-130": {
+              "Value": "29.399"
+            },
+            "GH-A-136": {
+              "Value": "4.30"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "29.399"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c64b",
+          "properties": {
+            "GH-A-130": {
+              "Value": "16.731"
+            },
+            "GH-A-136": {
+              "Value": "2.30"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "16.731"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c64e",
+          "properties": {
+            "GH-A-130": {
+              "Value": "1.005"
+            },
+            "GH-A-136": {
+              "Value": "0.40"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "1.005"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c651",
+          "properties": {
+            "GH-A-130": {
+              "Value": "0.525"
+            },
+            "GH-A-136": {
+              "Value": "0.70"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "0.525"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c65d",
+          "properties": {
+            "GH-A-130": {
+              "Value": "35.400"
+            },
+            "GH-A-136": {
+              "Value": "8.58"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "35.400"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c660",
+          "properties": {
+            "GH-A-130": {
+              "Value": "7.849"
+            },
+            "GH-A-136": {
+              "Value": "1.20"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "7.849"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c663",
+          "properties": {
+            "GH-A-130": {
+              "Value": "16.233"
+            },
+            "GH-A-136": {
+              "Value": "3.20"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "16.233"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c666",
+          "properties": {
+            "GH-A-130": {
+              "Value": "22.069"
+            },
+            "GH-A-136": {
+              "Value": "2.68"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "22.069"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c669",
+          "properties": {
+            "GH-A-130": {
+              "Value": "5.170"
+            },
+            "GH-A-136": {
+              "Value": "2.20"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "5.170"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c66c",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.850"
+            },
+            "GH-A-136": {
+              "Value": "1.50"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "2.850"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c66f",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.070"
+            },
+            "GH-A-136": {
+              "Value": "1.05"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "2.070"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c739",
+          "properties": {
+            "GH-A-130": {
+              "Value": "9.920"
+            },
+            "GH-A-136": {
+              "Value": "1.70"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "9.920"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c73c",
+          "properties": {
+            "GH-A-130": {
+              "Value": "18.927"
+            },
+            "GH-A-136": {
+              "Value": "3.80"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "18.927"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c73f",
+          "properties": {
+            "GH-A-130": {
+              "Value": "31.100"
+            },
+            "GH-A-136": {
+              "Value": "4.00"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "31.100"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c742",
+          "properties": {
+            "GH-A-130": {
+              "Value": "5.480"
+            },
+            "GH-A-136": {
+              "Value": "1.60"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "5.480"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c745",
+          "properties": {
+            "GH-A-130": {
+              "Value": "3.058"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "3.058"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c748",
+          "properties": {
+            "GH-A-130": {
+              "Value": "16.715"
+            },
+            "GH-A-136": {
+              "Value": "2.60"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "16.715"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c74b",
+          "properties": {
+            "GH-A-130": {
+              "Value": "5.030"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "5.030"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c74e",
+          "properties": {
+            "GH-A-130": {
+              "Value": "8.565"
+            },
+            "GH-A-136": {
+              "Value": "1.60"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "8.565"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c751",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.145"
+            },
+            "GH-A-136": {
+              "Value": "1.10"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "2.145"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c754",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.535"
+            },
+            "GH-A-136": {
+              "Value": "1.30"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "2.535"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c757",
+          "properties": {
+            "GH-A-130": {
+              "Value": "7.199"
+            },
+            "GH-A-136": {
+              "Value": "1.80"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "7.199"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c75a",
+          "properties": {
+            "GH-A-130": {
+              "Value": "2.700"
+            },
+            "GH-A-136": {
+              "Value": "1.50"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "2.700"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c75d",
+          "properties": {
+            "GH-A-130": {
+              "Value": "7.892"
+            },
+            "GH-A-136": {
+              "Value": "1.85"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "7.892"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c760",
+          "properties": {
+            "GH-A-130": {
+              "Value": "15.490"
+            },
+            "GH-A-136": {
+              "Value": "2.20"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "15.490"
+            }
+          }
+        },
+        {
+          "uid": "8d8c0ece-01e6-4721-85c4-c3c70c00b37d-0006c763",
+          "properties": {
+            "GH-A-130": {
+              "Value": "25.381"
+            },
+            "GH-A-136": {
+              "Value": "3.85"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "25.381"
+            }
+          }
+        },
+        {
+          "uid": "c9cd12fc-8107-468d-af0a-9091e3e68b88-0006c7be",
+          "properties": {
+            "GH-A-130": {
+              "Value": "27.960"
+            },
+            "GH-A-136": {
+              "Value": "4.05"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "27.960"
+            }
+          }
+        },
+        {
+          "uid": "c9cd12fc-8107-468d-af0a-9091e3e68b88-0006c7c6",
+          "properties": {
+            "GH-A-130": {
+              "Value": "19.949"
+            },
+            "GH-A-136": {
+              "Value": "2.85"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "19.949"
+            }
+          }
+        },
+        {
+          "uid": "d938b99d-5dd4-4574-98fd-259ae38b3613-0006c7f2",
+          "properties": {
+            "GH-A-130": {
+              "Value": "6.210"
+            },
+            "GH-A-136": {
+              "Value": "2.20"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "6.210"
+            }
+          }
+        },
+        {
+          "uid": "f9c3d448-d7c5-48a6-b051-f4b1f2b6c1b2-000cec6a",
+          "properties": {
+            "GH-A-130": {
+              "Value": "0.400"
+            },
+            "GH-A-136": {
+              "Value": "0.50"
+            },
+            "GH-A-135": {
+              "Value": "F5"
+            },
+            "GH-A-426": {
+              "Value": "0.400"
+            }
+          }
+        },
+        {
+          "uid": "f4005f96-4b5d-4f10-bc52-99d9f057d088-000d20e9",
+          "properties": {
+            "GH-A-130": {
+              "Value": "1.579"
+            },
+            "GH-A-136": {
+              "Value": "0.40"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "1.579"
+            }
+          }
+        },
+        {
+          "uid": "4f851743-ca07-4df5-a50f-41be2f433378-000e3861",
+          "properties": {
+            "GH-A-130": {
+              "Value": "338.625"
+            },
+            "GH-A-136": {
+              "Value": "12.05"
+            },
+            "GH-A-135": {
+              "Value": "F4"
+            },
+            "GH-A-426": {
+              "Value": "338.625"
+            }
+          }
+        },
+        {
+          "uid": "38345c43-0153-467d-81cd-d85fae9040f4-00102e27",
+          "properties": {
+            "GH-A-130": {
+              "Value": "90.884"
+            },
+            "GH-A-136": {
+              "Value": "7.40"
+            },
+            "GH-A-135": {
+              "Value": "F2"
+            },
+            "GH-A-426": {
+              "Value": "90.884"
+            }
+          }
+        },
+        {
+          "uid": "a88004e1-b2d2-4bd8-ae63-27be478d96f9-001770b3",
+          "properties": {
+            "GH-A-130": {
+              "Value": "1571.864"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "1571.864"
+            }
+          }
+        },
+        {
+          "uid": "a88004e1-b2d2-4bd8-ae63-27be478d96f9-001770b9",
+          "properties": {
+            "GH-A-130": {
+              "Value": "3.599"
+            },
+            "GH-A-136": {
+              "Value": "1.80"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "3.599"
+            }
+          }
+        },
+        {
+          "uid": "a88004e1-b2d2-4bd8-ae63-27be478d96f9-001770bc",
+          "properties": {
+            "GH-A-130": {
+              "Value": "3.901"
+            },
+            "GH-A-136": {
+              "Value": "1.20"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "3.901"
+            }
+          }
+        },
+        {
+          "uid": "a88004e1-b2d2-4bd8-ae63-27be478d96f9-001770bf",
+          "properties": {
+            "GH-A-130": {
+              "Value": "5.510"
+            },
+            "GH-A-136": {
+              "Value": "1.90"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "5.510"
+            }
+          }
+        },
+        {
+          "uid": "a88004e1-b2d2-4bd8-ae63-27be478d96f9-001770c2",
+          "properties": {
+            "GH-A-130": {
+              "Value": "6.210"
+            },
+            "GH-A-136": {
+              "Value": "2.30"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "6.210"
+            }
+          }
+        },
+        {
+          "uid": "a88004e1-b2d2-4bd8-ae63-27be478d96f9-001770c5",
+          "properties": {
+            "GH-A-130": {
+              "Value": "3.080"
+            },
+            "GH-A-136": {
+              "Value": "0.80"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "3.080"
+            }
+          }
+        },
+        {
+          "uid": "a88004e1-b2d2-4bd8-ae63-27be478d96f9-001770c8",
+          "properties": {
+            "GH-A-130": {
+              "Value": "8.853"
+            },
+            "GH-A-136": {
+              "Value": "2.30"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "8.853"
+            }
+          }
+        },
+        {
+          "uid": "a88004e1-b2d2-4bd8-ae63-27be478d96f9-001770cb",
+          "properties": {
+            "GH-A-130": {
+              "Value": "4.987"
+            },
+            "GH-A-136": {
+              "Value": "1.75"
+            },
+            "GH-A-135": {
+              "Value": "B1"
+            },
+            "GH-A-426": {
+              "Value": "4.987"
+            }
+          }
+        },
+        {
+          "uid": "3fe4c156-7dbe-406f-8974-fa2958b2aba7-001924e5",
+          "properties": {
+            "GH-A-130": {
+              "Value": "307.571"
+            },
+            "GH-A-136": {
+              "Value": "10.20"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "307.571"
+            }
+          }
+        },
+        {
+          "uid": "3fe4c156-7dbe-406f-8974-fa2958b2aba7-00192502",
+          "properties": {
+            "GH-A-130": {
+              "Value": "312.871"
+            },
+            "GH-A-136": {
+              "Value": "25.50"
+            },
+            "GH-A-135": {
+              "Value": "F3"
+            },
+            "GH-A-426": {
+              "Value": "312.871"
+            }
+          }
+        }
+      ],
+      "houseTypeList": [],
+      "properties": {
+        "GH-A-174": {
+          "Value": "新建"
+        },
+        "GH-A-109": {
+          "Value": "1#"
+        },
+        "GH-A-389": {
+          "Value": "-"
+        },
+        "GH-A-156": {
+          "Value": "二环路以内"
+        },
+        "GH-A-390": {
+          "Value": "A1"
+        },
+        "GH-A-009": {
+          "Value": "一类"
+        },
+        "GH-A-110": {
+          "Value": "中小学"
+        },
+        "GH-A-391": {
+          "Value": "0.00"
+        },
+        "GH-A-393": {
+          "Value": "0.3"
+        },
+        "GH-A-106": {
+          "Value": "0.30"
+        },
+        "GH-A-392": {
+          "Value": "5"
+        },
+        "GH-A-112": {
+          "Value": "1"
+        },
+        "GH-A-394": {
+          "Value": "平屋顶"
+        },
+        "GH-A-182": {
+          "Value": "24"
+        },
+        "GH-A-121": {
+          "Value": "5.85"
+        },
+        "GH-A-396": {
+          "Value": "非单建空间"
+        }
+      }
+    },
+    {
+      "fileName": "School-ALL-场地",
+      "buildingNo": "2#",
+      "landName": "A1",
+      "houseTypeList": [],
+      "properties": {
+        "GH-A-174": {
+          "Value": "保留"
+        },
+        "GH-A-109": {
+          "Value": "2#"
+        },
+        "GH-A-389": {
+          "Value": "-"
+        },
+        "GH-A-156": {
+          "Value": "二环路以内"
+        },
+        "GH-A-390": {
+          "Value": "A1"
+        },
+        "GH-A-009": {
+          "Value": "一类"
+        },
+        "GH-A-110": {
+          "Value": "科教建筑"
+        },
+        "GH-A-391": {
+          "Value": "0.00"
+        },
+        "GH-A-393": {
+          "Value": "0.30"
+        },
+        "GH-A-106": {
+          "Value": ""
+        },
+        "GH-A-392": {
+          "Value": "5"
+        },
+        "GH-A-112": {
+          "Value": "0"
+        },
+        "GH-A-394": {
+          "Value": ""
+        },
+        "GH-A-182": {
+          "Value": "24.00"
+        },
+        "GH-A-121": {
+          "Value": "0.00"
+        },
+        "GH-A-401": {
+          "Value": "330.00"
+        },
+        "GH-A-402": {
+          "Value": "0.00"
+        },
+        "GH-A-428": {
+          "Value": "0"
+        },
+        "GH-A-429": {
+          "Value": "0"
+        },
+        "GH-A-430": {
+          "Value": "0"
+        },
+        "GH-A-431": {
+          "Value": "0"
+        },
+        "GH-A-432": {
+          "Value": "0"
+        },
+        "GH-A-433": {
+          "Value": "0"
+        },
+        "GH-A-396": {
+          "Value": "非单建空间"
+        },
+        "GH-A-397": {
+          "Value": ""
+        },
+        "GH-A-395": {
+          "Value": ""
+        },
+        "GH-A-574": {
+          "Value": ""
+        },
+        "GH-A-572": {
+          "Value": ""
+        },
+        "GH-A-116": {
+          "Value": ""
+        },
+        "GH-A-573": {
+          "Value": ""
+        },
+        "GH-A-434": {
+          "Value": ""
+        }
+      }
+    }
+  ]
+}

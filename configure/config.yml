@@ -1,0 +1,28 @@
+env:
+    URL: https://deliverydev.cbim.org.cn:8004/home?isDev=1&env=dev
+    Username:  18571023517
+#    EntCode:  dev
+    Passwd: s123456
+browser:
+    BrowserName: Chrome
+    #BrowserName : Firefox
+    #BrowserName : IE
+log:
+    file_name: testsuite.log
+    backup: 5
+    console_level: WARNING
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+mail:
+    title: 混合端工具自动化测试报告
+    message: 附件查看测试报告
+    receiver: shenf@cbim.com.cn
+    server: smtp.exmail.qq.com
+    sender: shenf@cadg.cn
+    password: Cbim2020
+    path: C:\Users\SHENFAN\Desktop\中设数字\自动化\测试报告
+applycation:
+    name: C:\CBIM\CBIM_SpaceTool_2019\Load.exe
+
+
+
