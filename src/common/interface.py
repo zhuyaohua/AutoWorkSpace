@@ -62,8 +62,9 @@ class _Ticker:
 
     def reticket(self):
         return self.ticket
-
-cookie = {"delivery.tk": _Ticker("Dev","shenf@cadg.cn","s123456","pttest").reticket()}
+tgt =  _Ticker("Cdev","shenf@cadg.cn","s123456","delivery").reticket()
+cookie = {"delivery.tk": tgt,
+          "tool.tk": tgt}
 class Interface:
     def __init__(self, method, host, url, headers, pathparams, params, files, data):
         self.method = method
@@ -100,9 +101,9 @@ class Interface:
         self.cookies = cookie
         if headers:
             self.headers = ExcelFormat(headers).dic_format
-            self.headers["env"] = "dev"
+            self.headers["env"] = "cdev"
         else:
-            self.headers = {"env": "dev"}
+            self.headers = {"env": "cdev"}
         self.url = self.host + self.url
         self.finallresult = []
 
@@ -157,5 +158,5 @@ if __name__ == "__main__":
     # # print(finalldata)
     # # e = ExcelWrite(finalldata)
     # # e.write()
-    _Ticker("Dev", "shenf@cadg.cn", "s123456","pttest")
+    _Ticker("Cdev", "shenf@cadg.cn", "s123456","delivery")
 
