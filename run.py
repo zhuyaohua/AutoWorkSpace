@@ -8,10 +8,8 @@
 import unittest
 import os
 from src.common.report import Reportset
-from src.common.config import TESTCASE_PATH,REPORT_PATH
-from src.common.emailset import EmailSet
-from src.common.datareader import ExcelWrite
-from src.testcase.api_testcase import ApiTestCase
+from src.common.config import TESTCASE_PATH
+from src.common.apireport import reportprocessing
 
 
 def createsuite():
@@ -25,15 +23,10 @@ def createsuite():
 
 
 if __name__ == "__main__":
-    testsuite = createsuite()
-    report = Reportset(filename="DocTool-Test-", title=u"混合端工具测试报告", description=u"用例测试情况")
-    reportinfo = report.generate_report.run(testsuite)
-    # email = EmailSet()
-    # email.attach_file(report.filename)
-    # email.send()
-    # excel = os.path.join(REPORT_PATH, "report.xlsx")
-    # streamdata = ApiTestCase().test_api()
-    # ExcelWrite(excel, streamdata)
+    # testsuite = createsuite()
+    # report = Reportset(filename="DocTool-Test-", title=u"混合端工具测试报告", description=u"用例测试情况")
+    # reportinfo = report.generate_report.run(testsuite)
+    reportprocessing()
 
 
 

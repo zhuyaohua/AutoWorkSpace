@@ -71,8 +71,6 @@ def reportprocessing():
 
 
 
+if __name__ == "__main__":
+    reportprocessing()
 
-reportprocessing()
-# while True:
-#     reportprocessing()
-#     time.sleep(10)

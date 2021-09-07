@@ -97,7 +97,7 @@ class Interface:
         if host:
             self.host = host
         else:
-            self.host = Config(config=ENV_FILE).get("Dev").get("environ").get("uri_delivery")
+            self.host = Config(config=ENV_FILE).get("Cdev").get("environ").get("uri_delivery")
         self.cookies = cookie
         if headers:
             self.headers = ExcelFormat(headers).dic_format
